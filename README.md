@@ -7,4 +7,4 @@ I'm learning Git and GitHub.
 - Learn Git
 - Learn GitHub
 - Learn Linux
-- Become a Cloud & Cybersecurity Engineer
+- Become a Cloud engineer & Cybersecurity Analyst 
